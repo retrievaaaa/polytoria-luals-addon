@@ -1,3 +1,5 @@
+# this is obsolete with the 2.0 client/creator
+
 # Polytoria LuaLS Addon
 
 This addon provides you Lua-Language-Server typings for Polytoria.
